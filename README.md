@@ -11,13 +11,3 @@ This repository contains Cynthia-Ugwu is a simple website built using HTML and C
  https://github.com/qazi-humayoon/Cynthia-Ugwu.git
 
 ```
-
-## Installation
-
-[Explain how to install your project, dependencies, or any setup required.]
-
-```bash
-# Example installation steps or commands
-git clone https://github.com/qazi-humayoon/Cynthia-Ugwu.git
-cd Cynthia-Ugwu
-# Additional steps if needed...
