@@ -1,0 +1,308 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "General Sans", "Segoe UI", "Helvetica Neue", Arial, sans-serif; 
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+#main{
+    width: 100%;
+}
+
+#landing{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    color: white;
+    padding: 0 5vw;
+}
+
+.top{
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.25vw;
+    font-weight: bold;
+    padding: 1.6vw 3vw;
+    opacity: 0.7;
+}
+
+.bech{
+    margin-top: 85px;
+    font-size: 5vw;
+    opacity: 0.7;
+    text-align: center;
+    border-bottom: 1px solid white;
+    border-radius: 25px;
+}
+
+#landing1{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    color: white;
+}
+
+#landing1 video{
+    width: 100%;
+    height: 99vh;
+}
+
+#landing2{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    color: white;
+}
+
+.concept{
+    display: flex;
+    justify-content: space-between;
+    padding: 12vw 3vw;
+}
+
+.prototype{
+    font-size: 1.2vw;
+    line-height: 1.6;
+}
+
+.overview{
+    font-size: 1.125rem;
+    line-height: 1.4;
+}
+
+.overview h4{
+    opacity: 0.5;
+}
+#landing3{
+    width: 100%;
+    height: 100vh;
+    background-color: #0e0e0e;
+    color: white;
+}
+
+#landing3 video{
+    object-fit: cover;
+    margin-top: 5px;
+    padding: 2vw;
+    width: 100%;
+    height: 98vh;
+}
+
+#landing4{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    color: white;
+}
+
+.vision{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 3vw;
+}
+.vis h1{
+    font-size: 4vw;
+    opacity: 0.7;
+    padding-left: 3vw;
+    padding-top: 15vw;
+}
+.goal{
+    font-size: 1.125rem;
+    line-height: 1.6;
+   
+}
+
+.goal h5{
+    opacity: 0.6;
+}
+
+.challenge{
+    font-size: 1.125rem;
+    line-height: 1.6;
+}
+.challenge h5{
+    opacity: 0.6;
+}
+
+.challenge .need{
+    margin-top: 20px;
+}
+
+#landing5{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    color: white;
+}
+
+#landing5 video{
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+}
+
+#landing6{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    color: white;
+}
+
+.low{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 3vw;
+}
+
+.fidelity h1{
+    padding-top: 12vw;
+    padding-left: 3vw;
+    margin-bottom: 90px;
+    font-size: 4.4vw;
+    opacity: 0.7;
+}
+
+.wire{
+    font-size: 1.125rem;
+    line-height: 1.4;
+}
+
+.wire h5{
+    opacity: 0.6;
+    line-height: 1.5;
+}
+
+.key h5{
+    opacity: 0.6;
+    line-height: 1.5;
+}
+
+.key{
+    font-size: 1.125rem;
+    line-height: 1.4;
+
+}
+
+#landing6{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    color: white;
+}
+
+#landing6 img{
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+}
+
+#landing7{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    color: white;
+}
+
+.high h1{
+    padding-top: 12vw;
+    font-size: 4.5vw;
+    padding-left: 2vw;
+    margin-bottom: 65px;
+    opacity: 0.7;
+
+}
+
+.high p{
+    font-size: 1.125rem;
+    line-height: 1.4;
+    padding-left: 2vw;
+}
+
+.high h5{
+    padding-left: 2vw;
+    line-height: 1.4;
+    font-size: medium;
+    opacity: 0.6;
+}
+
+#landing8{
+    width: 100%;
+    height: 100vh;
+    background-color: #0e0e0e;
+    color: white;
+
+}
+
+#landing8 img{
+    margin-left: 20.5vw;
+    width: 60%;
+    height: 100vh;
+    object-fit: cover;
+}
+
+#landing9{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.vidi video{
+    width: 100%;
+    height: 100vh;
+    background-color: #0e0e0e;
+    object-fit: cover;
+}
+
+#landing9 video{
+    width: 100%;
+    height: 100vh;
+}
+
+#footer{
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    color: white;
+    padding: 0 3vw;
+}
+
+.foote{
+    display: flex;
+    justify-content: space-between;
+    /* padding: 0 3vw; */
+    align-items: center;
+    border-bottom: 1px solid white;
+    
+}
+
+#footer h3{
+    padding-top: 15vw;
+    /* padding-left: 3.3vw; */
+    margin-bottom: 10px;
+}
+
+.foote a{
+    font-size: 4vw;
+    text-decoration: none;
+    color: white;
+    opacity: 0.7;
+
+}
+
+.foote h1{
+    font-weight: 600;
+}
+
+.foote h4{
+    padding-right: 90px;
+}
