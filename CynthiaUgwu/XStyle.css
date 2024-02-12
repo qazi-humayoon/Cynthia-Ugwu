@@ -224,3 +224,12 @@ footer{
     text-decoration: none;
     color: white;
 }
+
+#cursor{
+    height: 15px;
+    width: 15px;
+    background-color: white;
+    border-radius: 10px;
+    position: absolute;
+    mix-blend-mode:difference;
+}
