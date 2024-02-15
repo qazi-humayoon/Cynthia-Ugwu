@@ -230,6 +230,6 @@ footer{
     width: 15px;
     background-color: white;
     border-radius: 10px;
-    position: absolute;
+    position: fixed;
     mix-blend-mode:difference;
 }
